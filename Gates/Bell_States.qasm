@@ -24,8 +24,3 @@ gate psi_minus a, b {
   h a;
   cx a, b;
 }
-
-qreg q0[1];
-qreg q1[1];
-
-phi_plus q0[0],q1[0];
