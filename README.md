@@ -45,7 +45,7 @@ State visualization:
 
 ![psi minus visualization](resources/psiminus.png)
 
-## Wofgang Duer State (W-State) gate implementation
+## Wofgang Duer State (W-State) gate implementation:
 
 Circuit implementation:
 
