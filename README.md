@@ -2,7 +2,7 @@
 Using QASM to define quantum entanglement gates.
 
 
-## Bells state gate implementation:
+## Bell state gate implementation:
 
 
 ### Phi-Plus
@@ -45,7 +45,7 @@ State visualization:
 
 ![psi minus visualization](resources/psiminus.png)
 
-## Wofgang Duer State (W-State)
+## Wofgang Duer State (W-State) gate implementation
 
 Circuit implementation:
 
