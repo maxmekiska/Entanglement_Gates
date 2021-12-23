@@ -59,8 +59,8 @@ State visualization:
 
 Circuit implementation:
 
-![ghz state circuit](resources/ghzstate.png)
+![ghz state circuit](resources/ghz.png)
 
 State visualization:
 
-![ghz state visualization](resources/ghzstatevis.png)
+![ghz state visualization](resources/ghzvis.png)
