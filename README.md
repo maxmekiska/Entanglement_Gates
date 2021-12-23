@@ -54,3 +54,13 @@ Circuit implementation:
 State visualization:
 
 ![w state visualization](resources/wstatevis.png)
+
+## Greenberger-Horne-Zeilinger gate implementation:
+
+Circuit implementation:
+
+![ghz state circuit](resources/ghzstate.png)
+
+State visualization:
+
+![ghz state visualization](resources/ghzstatevis.png)
