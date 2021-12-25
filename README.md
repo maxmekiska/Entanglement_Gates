@@ -45,6 +45,10 @@ State visualization:
 
 ![psi minus visualization](resources/psiminusvis.png)
 
+Bell-State-Vectors:
+
+![bell vectors](resource/BellVectors.png)
+
 ## Wofgang Duer State (W-State) gate implementation:
 
 Circuit implementation:
