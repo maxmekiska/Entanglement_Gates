@@ -47,7 +47,7 @@ State visualization:
 
 Bell-State-Vectors:
 
-![bell vectors](resource/BellVectors.png)
+![bell vectors](resources/BellVectors.png)
 
 ## Wofgang Duer State (W-State) gate implementation:
 
